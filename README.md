@@ -10,7 +10,7 @@ It is intended to develop an User Interface for monitoring and diagnosis of brea
 * Ultrasound;
 * MRI volumes;
 
-With protocol already signed with the Fernando Fonseca Hospital, it is intended that this interface has two features:
+With protocol already signed with the [Fernando Fonseca Hospital](http://www.hff.min-saude.pt/), it is intended that this interface has two features:
 
 **(i)** - Build a database with annotations in multi-modality mammography image.
 
