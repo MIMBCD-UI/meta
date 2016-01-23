@@ -6,7 +6,7 @@ Development of the User Interface for Diagnosis of Breast Cancer in Medical Imag
 
 It is intended to develop an User Interface for monitoring and diagnosis of breast lesions in various medical imaging modalities. Imaging modalities to include in the work are:
 
-* Mammography (including the views cranio-caudal and oblique);
+* Mammography (including the views caudal-skull and oblique);
 * Ultrasound;
 * MRI volumes;
 
