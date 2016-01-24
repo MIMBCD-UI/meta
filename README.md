@@ -1,5 +1,7 @@
 # About MIMBCD-UI Project
 
+MIMBCD-UI involves the collaborative effort of two Portuguese Research Institutions: [INESC-ID](http://www.inesc-id.pt/) and [ISR](http://welcome.isr.tecnico.ulisboa.pt/)/[IST](http://tecnico.ulisboa.pt/).
+
 ## Goals
 
 Development of the User Interface for Diagnosis of Breast Cancer in Medical Imaging Multi-mode.
