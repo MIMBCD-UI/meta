@@ -24,7 +24,7 @@ Based on the patient's identification (eg, via a query on the ID), and for a giv
 
 Knowledge of:
 
-* HTML 5;
+* HTML;
 * CSS;
 * Javascript;
 * Python;
