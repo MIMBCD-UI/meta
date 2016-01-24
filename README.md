@@ -24,8 +24,6 @@ Based on the patient's identification (eg, via a query on the ID), and for a giv
 
 ## Requirements
 
-Knowledge of:
-
 * [HTML](http://www.w3schools.com/html/);
 * [CSS](http://www.w3schools.com/css/);
 * [Javascript](http://www.w3schools.com/js/);
