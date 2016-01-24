@@ -26,8 +26,8 @@ Based on the patient's identification (eg, via a query on the ID), and for a giv
 
 Knowledge of:
 
-* HTML;
-* CSS;
-* Javascript;
-* Python;
-* Matlab;
+* [HTML](http://www.w3schools.com/html/);
+* [CSS](http://www.w3schools.com/css/);
+* [Javascript](http://www.w3schools.com/js/);
+* [Python](https://www.python.org/);
+* [MATLAB](http://www.mathworks.com/);
