@@ -34,7 +34,7 @@ Based on the patient's identification (eg, via a query on the ID), and for a giv
 
 #### Advisor
 
-Professor [Jacinto Peixoto do Nascimento](http://users.isr.ist.utl.pt/~jan/) (ISR/IST)
+Professor [Jacinto Peixoto do Nascimento](http://users.isr.ist.utl.pt/~jan/) ([ISR](http://welcome.isr.tecnico.ulisboa.pt/author/jacintocarlosmarquespeixotodo/)/[IST](https://fenix.tecnico.ulisboa.pt/homepage/ist33543))
 
 #### Co-Advisor
 
