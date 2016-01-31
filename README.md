@@ -34,8 +34,8 @@ Based on the patient's identification (eg, via a query on the ID), and for a giv
 
 #### Advisor
 
-Professor Jacinto Peixoto do Nascimento (ISR)
+Professor [Jacinto Peixoto do Nascimento](http://users.isr.ist.utl.pt/~jan/) (ISR/IST)
 
 #### Co-Advisor
 
-Professor [Daniel Gonçalves](http://danielgoncalves.info/) ([INESC-ID](http://www.inesc-id.pt/member.php?pid=317))
+Professor [Daniel Gonçalves](http://danielgoncalves.info/) ([INESC-ID](http://www.inesc-id.pt/member.php?pid=317)/[IST](https://fenix.tecnico.ulisboa.pt/homepage/ist13898))
