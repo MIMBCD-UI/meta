@@ -29,3 +29,13 @@ Based on the patient's identification (eg, via a query on the ID), and for a giv
 * [Javascript](http://www.w3schools.com/js/);
 * [Python](https://www.python.org/);
 * [MATLAB](http://www.mathworks.com/);
+
+## Advisorship
+
+#### Advisor
+
+Professor Jacinto Peixoto do Nascimento (ISR)
+
+#### Co-Advisor
+
+Professor [Daniel Gonçalves](http://danielgoncalves.info/) ([INESC-ID](http://www.inesc-id.pt/member.php?pid=317))
