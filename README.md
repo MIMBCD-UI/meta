@@ -16,7 +16,7 @@ With protocol already signed with the [Fernando Fonseca Hospital](http://www.hff
 
 **(i)** - Build a database with annotations in multi-modality mammography image.
 
-Provide the user (doctor) facility to draw / write down masses and calcifications, as well as the corresponding BIRAD for each imaging modality. This annotation process can be built during the examination, and thus it is possible to build a database of medical notes.
+Provide the user (doctor) facility to draw / write down masses and calcifications, as well as the corresponding [BI-RADS](https://en.wikipedia.org/wiki/BI-RADS) for each imaging modality. This annotation process can be built during the examination, and thus it is possible to build a database of medical notes.
 
 **(ii)** - Follow-up of the patient. With this feature is to allow the doctor automate a multimodality inspection for the patient.
 
