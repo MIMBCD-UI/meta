@@ -4,22 +4,22 @@ Medical Imaging Multimodality Breast Cancer Diagnosis User Interface (MIMBCD-UI)
 
 <span class="image">
   <a href="http://tecnico.ulisboa.pt/" title="IST">
-    <img src="assets/IST_C_RGB_POS.png" alt="ist" width="25%" height="25%" />
+    <img src="assets/IST_C_RGB_POS.png" alt="ist" width="100%" height="100%" />
   </a>
 </span>
 <span class="image">
   <a href="http://dei.tecnico.ulisboa.pt" title="DEI">
-    <img src="assets/DEI_RGB.png" alt="dei" width="25%" height="25%" />
+    <img src="assets/DEI_RGB.png" alt="dei" width="100%" height="100%" />
   </a>
 </span>
 <span class="image">
   <a href="http://www.inesc-id.pt/" title="INESC-ID">
-    <img src="assets/logo-inesc-id.png" alt="inesc-id" width="25%" height="25%" />
+    <img src="assets/logo-inesc-id.png" alt="inesc-id" width="100%" height="100%" />
   </a>
 </span>
 <span class="image">
   <a href="http://welcome.isr.tecnico.ulisboa.pt/" title="ISR">
-    <img src="assets/logo_200.png" alt="isr" width="25%" height="25%" />
+    <img src="assets/logo_200.png" alt="isr" width="100%" height="100%" />
   </a>
 </span>
 
