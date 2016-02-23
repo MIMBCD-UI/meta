@@ -1,10 +1,10 @@
 # About MIMBCD-UI Project
 
-Medical Imaging Multi-mode Breast Cancer Diagnosis User Interface (MIMBCD-UI) Project involves the collaborative effort of two Portuguese Research Institutions: [INESC-ID](http://www.inesc-id.pt/) and [ISR](http://welcome.isr.tecnico.ulisboa.pt/)/[IST](http://tecnico.ulisboa.pt/).
+Medical Imaging Multimodality Breast Cancer Diagnosis User Interface (MIMBCD-UI) Project involves the collaborative effort of two Portuguese Research Institutions: [INESC-ID](http://www.inesc-id.pt/) and [ISR](http://welcome.isr.tecnico.ulisboa.pt/)/[IST](http://tecnico.ulisboa.pt/).
 
 ## Goals
 
-Development of the User Interface for Diagnosis of Breast Cancer in Medical Imaging Multi-mode.
+Development of the User Interface for Diagnosis of Breast Cancer in Medical Imaging Multimodality.
 
 It is intended to develop an User Interface for monitoring and diagnosis of breast lesions in various medical imaging modalities. Imaging modalities to include in the work are:
 
@@ -14,7 +14,7 @@ It is intended to develop an User Interface for monitoring and diagnosis of brea
 
 With protocol already signed with the [Fernando Fonseca Hospital](http://www.hff.min-saude.pt/), it is intended that this interface has two features:
 
-**(i)** - Build a database with annotations in multi-modality mammography image.
+**(i)** - Build a database with annotations in multimodality mammography image.
 
 Provide the user (doctor) facility to draw / write down masses and calcifications, as well as the corresponding [BI-RADS](https://en.wikipedia.org/wiki/BI-RADS) for each imaging modality. This annotation process can be built during the examination, and thus it is possible to build a database of medical notes.
 
