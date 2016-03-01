@@ -51,6 +51,10 @@ Based on the patient's identification (eg, via a query on the ID), and for a giv
 * [Python](https://www.python.org/);
 * [MATLAB](http://www.mathworks.com/);
 
+## Media
+
+* [MIMBCD-UI Youtube Playlist](https://www.youtube.com/playlist?list=PLSTwZNTQNGC5pdYGWmUwwV8jsckozx6U9)
+
 ## Advisorship
 
 #### Advisor
