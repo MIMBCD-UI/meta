@@ -25,7 +25,7 @@ Medical Imaging Multimodality Breast Cancer Diagnosis User Interface (MIMBCD-UI)
 
 ## Introduction
 
-The project is being developed by the Associated Laboratory - Institute for Systems and Robotics (ISR).
+The project is being developed by the Associated Laboratory - [Institute for Systems and Robotics (ISR)](http://welcome.isr.tecnico.ulisboa.pt/).
 
 This project proposes the development of a methodology for detection and cancer targeting breast using multimodality medical imaging and textual information.
 
