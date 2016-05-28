@@ -23,6 +23,26 @@ Medical Imaging Multimodality Breast Cancer Diagnosis User Interface (MIMBCD-UI)
   </a>
 </span>
 
+## Introduction
+
+The project is being developed by the Associated Laboratory - Institute for Systems and Robotics (ISR).
+
+This project proposes the development of a methodology for detection and cancer targeting breast using multimodality medical imaging and textual information.
+
+More Specifically, this project deals with the use of a recently proposed technique in literature: [Deep Convolutional Neural Networks (CNNs)](https://en.wikipedia.org/wiki/Convolutional_neural_network).
+
+These deep networks will incorporate information from several different modes: magnetic resonance imaging volumes (MRI), ultrasound images, mammographic images (both views [CC](http://radiopaedia.org/articles/craniocaudal-view) and [MLO](http://radiopaedia.org/articles/mediolateral-oblique-view)) and text.
+
+The proposed algorithm, called for multimodality CNNs (MMCNNs) will have the ability to process multimodal information at an unified and sustained manner.
+
+This methodology needs to "learn" what are the masses and calcifications.
+
+So that is necessary to collect the [ground truth](https://en.wikipedia.org/wiki/Ground_truth), or notes of the masses and calcifications provided by medical experts.
+
+For the collection of these notes, the design and development of an interface is necessary allows the user (in this case, the medical specialist) to display various types of image (i.e., ultrasound, MRI and mammography), and that also allows for user interaction, particularly in providing the notes of the masses and calcifications.
+
+For these reasons, it is crucial for the development of this project, cooperation with experts providing the above notes.
+
 ## Goals
 
 Development of the User Interface for Diagnosis of Breast Cancer in Medical Imaging Multimodality.
