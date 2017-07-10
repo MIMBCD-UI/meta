@@ -2,27 +2,6 @@
 
 Medical Imaging Multimodality Breast Cancer Diagnosis User Interface (MIMBCD-UI) Project involves the collaborative effort of two Portuguese Research Institutions: [INESC-ID](http://www.inesc-id.pt/) and [ISR](http://welcome.isr.tecnico.ulisboa.pt/)/[IST](http://tecnico.ulisboa.pt/).
 
-<span class="image">
-  <a href="http://tecnico.ulisboa.pt/" title="IST">
-    <img src="assets/IST_C_RGB_POS.png" alt="ist" />
-  </a>
-</span>
-<span class="image">
-  <a href="http://dei.tecnico.ulisboa.pt" title="DEI">
-    <img src="assets/DEI_RGB.png" alt="dei" />
-  </a>
-</span>
-<span class="image">
-  <a href="http://www.inesc-id.pt/" title="INESC-ID">
-    <img src="assets/logo-inesc-id.png" alt="inesc-id" />
-  </a>
-</span>
-<span class="image">
-  <a href="http://welcome.isr.tecnico.ulisboa.pt/" title="ISR">
-    <img src="assets/logo_200.png" alt="isr" />
-  </a>
-</span>
-
 ## Introduction
 
 The project is being developed by the Associated Laboratory - [Institute for Systems and Robotics (ISR)](http://welcome.isr.tecnico.ulisboa.pt/). This project proposes the development of a methodology for detection and cancer targeting breast using multimodality medical imaging and textual information.
@@ -72,3 +51,41 @@ Professor [Jacinto Peixoto do Nascimento](http://users.isr.ist.utl.pt/~jan/) ([I
 #### Co-Advisor
 
 Professor [Daniel Gonçalves](http://danielgoncalves.info/) ([INESC-ID](http://www.inesc-id.pt/member.php?pid=317)/[IST](https://fenix.tecnico.ulisboa.pt/homepage/ist13898))
+
+## Sponsors
+
+<span class="image">
+  <a href="http://www.fct.pt/" title="FCT">
+    <img src="assets/fct.png" alt="fct" />
+  </a>
+</span>
+<span class="image">
+  <a href="https://www.fccn.pt/en/" title="FCCN">
+    <img src="assets/fccn.png" alt="fccn" />
+  </a>
+</span>
+<span class="image">
+  <a href="https://www.ulisboa.pt/en/" title="ULisboa">
+    <img src="assets/ulisboa.png" alt="ulisboa" />
+  </a>
+</span>
+<span class="image">
+  <a href="http://tecnico.ulisboa.pt/" title="IST">
+    <img src="assets/IST_C_RGB_POS.png" alt="ist" />
+  </a>
+</span>
+<span class="image">
+  <a href="http://dei.tecnico.ulisboa.pt" title="DEI">
+    <img src="assets/DEI_RGB.png" alt="dei" />
+  </a>
+</span>
+<span class="image">
+  <a href="http://www.inesc-id.pt/" title="INESC-ID">
+    <img src="assets/logo-inesc-id.png" alt="inesc-id" />
+  </a>
+</span>
+<span class="image">
+  <a href="http://welcome.isr.tecnico.ulisboa.pt/" title="ISR">
+    <img src="assets/logo_200.png" alt="isr" />
+  </a>
+</span>
