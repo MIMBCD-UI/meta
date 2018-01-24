@@ -55,37 +55,66 @@ Professor [Daniel Gonçalves](http://danielgoncalves.info/) ([INESC-ID](http://w
 ## Sponsors
 
 <span class="image">
-  <a href="http://www.fct.pt/" title="FCT">
-    <img src="assets/fct.png" alt="fct" />
+  <a href="http://www.fct.pt/" title="FCT" target="_blank">
+    <img src="https://github.com/MIMBCD-UI/meta/blob/master/brands/fct_footer.png" alt="fct" />
   </a>
 </span>
 <span class="image">
-  <a href="https://www.fccn.pt/en/" title="FCCN">
-    <img src="assets/fccn.png" alt="fccn" />
+  <a href="https://www.fccn.pt/en/" title="FCCN" target="_blank">
+    <img src="https://github.com/MIMBCD-UI/meta/blob/master/brands/fccn_footer.png" alt="fccn" />
   </a>
 </span>
 <span class="image">
-  <a href="https://www.ulisboa.pt/en/" title="ULisboa">
-    <img src="assets/ulisboa.png" alt="ulisboa" />
+  <a href="https://www.ulisboa.pt/en/" title="ULisboa" target="_blank">
+    <img src="https://github.com/MIMBCD-UI/meta/blob/master/brands/ulisboa_footer.png" alt="ulisboa" />
   </a>
 </span>
 <span class="image">
-  <a href="http://tecnico.ulisboa.pt/" title="IST">
-    <img src="assets/IST_C_RGB_POS.png" alt="ist" />
+  <a href="http://tecnico.ulisboa.pt/" title="IST" target="_blank">
+    <img src="https://github.com/MIMBCD-UI/meta/blob/master/brands/ist_c_rgb_pos_footer.png" alt="ist" />
+  </a>
+</span>
+
+## Departments
+
+<span class="image">
+  <a href="http://dei.tecnico.ulisboa.pt" title="DEI" target="_blank">
+    <img src="https://github.com/MIMBCD-UI/meta/blob/master/brands/dei_footer.png" alt="dei" />
   </a>
 </span>
 <span class="image">
-  <a href="http://dei.tecnico.ulisboa.pt" title="DEI">
-    <img src="assets/DEI_RGB.png" alt="dei" />
+  <a href="http://deec.tecnico.ulisboa.pt" title="DEEC" target="_blank">
+    <img src="https://github.com/MIMBCD-UI/meta/blob/master/brands/deec_footer.png" alt="dei" />
+  </a>
+</span>
+
+## Laboratories
+
+<span class="image">
+  <a href="http://www.inesc-id.pt/" title="INESC-ID" target="_blank">
+    <img src="https://github.com/MIMBCD-UI/meta/blob/master/brands/inesc-id_footer.png" alt="inesc-id" />
   </a>
 </span>
 <span class="image">
-  <a href="http://www.inesc-id.pt/" title="INESC-ID">
-    <img src="assets/logo-inesc-id.png" alt="inesc-id" />
+  <a href="http://welcome.isr.tecnico.ulisboa.pt/" title="ISR" target="_blank">
+    <img src="https://github.com/MIMBCD-UI/meta/blob/master/brands/isr-lisboa_footer.png" alt="isr" />
   </a>
 </span>
 <span class="image">
-  <a href="http://welcome.isr.tecnico.ulisboa.pt/" title="ISR">
-    <img src="assets/logo_200.png" alt="isr" />
+  <a href="http://welcome.isr.tecnico.ulisboa.pt/projects_cat/sipg/" title="SIGP" target="_blank">
+    <img src="https://github.com/MIMBCD-UI/meta/blob/master/brands/sigp_footer.png" alt="sigp"/>
+  </a>
+</span>
+
+## Countries
+
+<span class="image">
+  <a href="https://europa.eu/" title="EU" target="_blank">
+    <img src="https://github.com/MIMBCD-UI/meta/blob/master/brands/eu_footer.png" alt="eu" />
+  </a>
+</span>
+<span class="image">
+  <a href="https://www.portugal.gov.pt/" title="Portugal" target="_blank">
+    <img src="https://github.com/MIMBCD-UI/meta/blob/master/brands/pt_footer.png" alt="pt"/>
   </a>
 </span>
