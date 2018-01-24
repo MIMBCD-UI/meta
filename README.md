@@ -105,6 +105,11 @@ Professor [Daniel Gonçalves](http://danielgoncalves.info/) ([INESC-ID](http://w
     <img src="https://github.com/MIMBCD-UI/meta/blob/master/brands/sigp_footer.png" alt="sigp"/>
   </a>
 </span>
+<span class="image">
+  <a href="http://larsys.pt/" title="LARSys" target="_blank">
+    <img src="https://github.com/MIMBCD-UI/meta/blob/master/brands/larsys_footer.png" alt="larsys"/>
+  </a>
+</span>
 
 ## Countries
 
