@@ -1,5 +1,9 @@
 # About MIMBCD-UI Project
 
+<a href="https://github.com/MIMBCD-UI/" title="Meta" target="_blank">
+  <img src="https://github.com/MIMBCD-UI/meta/blob/master/headers/breast_cancer_women.png" alt="header" />
+</a>
+
 Medical Imaging Multimodality Breast Cancer Diagnosis User Interface (MIMBCD-UI) Project involves the collaborative effort of two Portuguese Research Institutions: [INESC-ID](http://www.inesc-id.pt/) and [ISR](http://welcome.isr.tecnico.ulisboa.pt/)/[IST](http://tecnico.ulisboa.pt/).
 
 ## Introduction
