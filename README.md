@@ -44,6 +44,14 @@ Based on the patient's identification (eg, via a query on the ID), and for a giv
 
 ## Media
 
+* [MIMBCD-UI Site](https://mimbcd-ui.github.io/)
+
+* [ResearchGate](https://www.researchgate.net/project/MIMBCD-UI)
+
+* [GitHub](https://github.com/MIMBCD-UI)
+
+* [MIMBCD-UI Youtube Channel](https://www.youtube.com/channel/UCPz4aTIVHekHXTxHTUOLmXw)
+
 * [MIMBCD-UI Youtube Playlist](https://www.youtube.com/playlist?list=PLSTwZNTQNGC5pdYGWmUwwV8jsckozx6U9)
 
 ## Advisorship
