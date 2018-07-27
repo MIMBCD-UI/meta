@@ -84,7 +84,7 @@ Professor [Daniel Gonçalves](http://danielgoncalves.info/) ([INESC-ID](http://w
 
 ### Acknowledgements
 
-A special thanks to [Chris Hafey](https://www.linkedin.com/in/chafey/), the propelling person of [CornerstoneJS](https://cornerstonejs.org/), who also developed the [cornerstoneDemo](https://github.com/chafey/cornerstoneDemo). Not forgetting the three supporters of the [CornerstoneJS](https://cornerstonejs.org/) library, [Aloïs Dreyfus](https://www.linkedin.com/in/alois-dreyfus), [Danny Brown](http://dannyrb.com/) and [Erik Ziegler](https://www.npmjs.com/~swederik). We also would like to give a special thanks to [Erik Ziegler](https://www.npmjs.com/~swederik) who support several [issues](https://groups.google.com/forum/#!forum/cornerstone-platform) during this path.
+A special thanks to [Chris Hafey](https://www.linkedin.com/in/chafey/), the propelling person of [CornerstoneJS](https://cornerstonejs.org/), who also developed the [cornerstoneDemo](https://github.com/chafey/cornerstoneDemo). Not forgetting the three supporters of the [CornerstoneJS](https://cornerstonejs.org/) library, [Aloïs Dreyfus](https://www.linkedin.com/in/alois-dreyfus), [Danny Brown](http://dannyrb.com/) and [Erik Ziegler](https://www.npmjs.com/~swederik). We also would like to give a special thanks to [Erik Ziegler](https://www.npmjs.com/~swederik) who support several [issues](https://groups.google.com/forum/#!forum/cornerstone-platform) during this path. Thanks also [Pedro Miraldo](https://github.com/pmiraldo), [Carlos Santiago](https://github.com/cajosantiago), [Bruno Cardoso](https://github.com/bdcardoso) and [Bruno Oliveira](https://github.com/bruno-oliveira) for the help given.
 
 ## Sponsors
 
