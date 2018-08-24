@@ -82,6 +82,8 @@ Professor [Jacinto Peixoto do Nascimento](http://users.isr.ist.utl.pt/~jan/) ([I
 
 Professor [Daniel Gonçalves](http://danielgoncalves.info/) ([INESC-ID](http://www.inesc-id.pt/member.php?pid=317)/[IST](https://fenix.tecnico.ulisboa.pt/homepage/ist13898))
 
+## Information
+
 ### Dataset Resources
 
 During the development of this project we generated a combination of interesting [datasets](https://www.kaggle.com/MIMBCD-UI/datasets). To publish our related [datasets](https://www.kaggle.com/MIMBCD-UI/datasets) we used a well known platform called [Kaggle](https://www.kaggle.com/MIMBCD-UI). To access our project's [Profile Page](https://www.kaggle.com/MIMBCD-UI) just follow the [link](https://www.kaggle.com/MIMBCD-UI).
