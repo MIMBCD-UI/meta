@@ -82,9 +82,13 @@ Professor [Jacinto Peixoto do Nascimento](http://users.isr.ist.utl.pt/~jan/) ([I
 
 Professor [Daniel Gonçalves](http://danielgoncalves.info/) ([INESC-ID](http://www.inesc-id.pt/member.php?pid=317)/[IST](https://fenix.tecnico.ulisboa.pt/homepage/ist13898))
 
+### Dataset Resources
+
+During the development of this project we generated a combination of interesting [datasets](https://www.kaggle.com/MIMBCD-UI/datasets). To publish our related [datasets](https://www.kaggle.com/MIMBCD-UI/datasets) we used a well known platform called [Kaggle](https://www.kaggle.com/MIMBCD-UI). To access our project's [Profile Page](https://www.kaggle.com/MIMBCD-UI) just follow the [link](https://www.kaggle.com/MIMBCD-UI).
+
 ### Acknowledgements
 
-A special thanks to [Chris Hafey](https://www.linkedin.com/in/chafey/), the propelling person of [CornerstoneJS](https://cornerstonejs.org/), who also developed the [cornerstoneDemo](https://github.com/chafey/cornerstoneDemo). Not forgetting the three supporters of the [CornerstoneJS](https://cornerstonejs.org/) library, [Aloïs Dreyfus](https://www.linkedin.com/in/alois-dreyfus), [Danny Brown](http://dannyrb.com/) and [Erik Ziegler](https://www.npmjs.com/~swederik). We also would like to give a special thanks to [Erik Ziegler](https://www.npmjs.com/~swederik) who support several [issues](https://groups.google.com/forum/#!forum/cornerstone-platform) during this path. Thanks also [Pedro Miraldo](https://github.com/pmiraldo), [Carlos Santiago](https://github.com/cajosantiago), [Bruno Cardoso](https://github.com/bdcardoso) and [Bruno Oliveira](https://github.com/bruno-oliveira) for the help given.
+A special thanks to [Chris Hafey](https://www.linkedin.com/in/chafey/), the propelling person of [CornerstoneJS](https://cornerstonejs.org/), who also developed the [cornerstoneDemo](https://github.com/chafey/cornerstoneDemo). Not forgetting the three supporters of the [CornerstoneJS](https://cornerstonejs.org/) library, [Aloïs Dreyfus](https://www.linkedin.com/in/alois-dreyfus), [Danny Brown](http://dannyrb.com/) and [Erik Ziegler](https://www.npmjs.com/~swederik). We also would like to give a special thanks to [Erik Ziegler](https://www.npmjs.com/~swederik) who support several [issues](https://groups.google.com/forum/#!forum/cornerstone-platform) during this path. Thanks also [Pedro Miraldo](https://github.com/pmiraldo), [Carlos Santiago](https://github.com/cajosantiago), [Bruno Cardoso](https://github.com/bdcardoso) and [Bruno Oliveira](https://github.com/bruno-oliveira) for the technical help given.
 
 ## Sponsors
 
