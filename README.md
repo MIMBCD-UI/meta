@@ -6,7 +6,11 @@
 
 Medical Imaging Multimodality Breast Cancer Diagnosis User Interface (MIMBCD-UI) Project involves the collaborative effort of two Portuguese Research Institutions: [INESC-ID](http://www.inesc-id.pt/) and [ISR](http://welcome.isr.tecnico.ulisboa.pt/) both are [Associate Laboratories](https://tecnico.ulisboa.pt/en/research-and-innovation/rd/associate-laboratories/) of [IST](http://tecnico.ulisboa.pt/) from [ULisboa](https://www.ulisboa.pt/) - [Portugal](https://www.portugal.gov.pt/) ([EU](https://europa.eu/)). The project was created through the [Master Thesis](https://fenix.tecnico.ulisboa.pt/cursos/meic-a/dissertacao/1409728525632244) of [Francisco Maria Calisto](http://web.tecnico.ulisboa.pt/francisco.calisto/). The [MIMBCD-UI](https://github.com/MIMBCD-UI) Project is the precuror of both [MIDA](https://github.com/mida-project) and [BreastScreening](https://github.com/BreastScreening) Projects.
 
-## Citing Master Thesis
+## Research
+
+Like the fact that these projects are research projects, we underline and ask for the support of our noble community to help us across the path. We hope, with this, to provide valuable information regarding our research topics and theories.
+
+### Citing Master Thesis
 
 We kindly ask **scientific works and studies** that make use of Master Thesis to cite Master Thesis in their associated publications. Similarly, we ask **open-source** and **closed-source** works that make use of Master Thesis to warn us about this use. You can cite our work using the following BibTeX entry:
 
@@ -21,6 +25,38 @@ We kindly ask **scientific works and studies** that make use of Master Thesis to
   note         = {A Medical Imaging for Multimodality of Breast Cancer Diagnosis by an User Interface.}
 }
 ```
+
+### Publications
+
+We have several publications made on research conferences and journals. In this section, we provide a short list of our main samples. To see a more complete list, please follow [this link](https://github.com/MIMBCD-UI/meta/wiki/Publications).
+
+***
+
+[Towards Touch-Based Medical Image Diagnosis Annotation](https://dl.acm.org/citation.cfm?id=3134111&CFID=841794082&CFTOKEN=36707834)
+
+[Francisco M. Calisto](https://dl.acm.org/author_page.cfm?id=99659211441&CFID=841794082&CFTOKEN=36707834), [Alfredo Ferreira](https://dl.acm.org/author_page.cfm?id=81448599037&CFID=841794082&CFTOKEN=36707834), [Jacinto C. Nascimento](https://dl.acm.org/author_page.cfm?id=99659210241&CFID=841794082&CFTOKEN=36707834) and [Daniel Gonçalves](https://dl.acm.org/author_page.cfm?id=81100240223&CFID=841794082&CFTOKEN=36707834)
+
+In [Proceedings](http://st.sigchi.org/publications/toc/iss-2017.html) of the [2017 ACM International Conference on Interactive Surfaces and Spaces (ISS '17)](https://iss2017.acm.org/)
+
+ACM, New York, NY, USA, 390-395.
+
+DOI: [10.1145/3132272.3134111](https://doi.org/10.1145/3132272.3134111)
+
+***
+
+[Automated Analysis of Unregistered Multi-View Mammograms With Deep Learning](http://ieeexplore.ieee.org/abstract/document/8032490/)
+
+[Gustavo Carneiro](http://ieeexplore.ieee.org/search/searchresult.jsp?searchWithin=%22Authors%22:.QT.Gustavo%20Carneiro.QT.&newsearch=true), [Jacinto Nascimento](http://ieeexplore.ieee.org/search/searchresult.jsp?searchWithin=%22Authors%22:.QT.Jacinto%20Nascimento.QT.&newsearch=true) and [Andrew P. Bradley](http://ieeexplore.ieee.org/search/searchresult.jsp?searchWithin=%22Authors%22:.QT.Andrew%20P.%20Bradley.QT.&newsearch=true)
+
+Published in: [IEEE Transactions on Medical Imaging](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42) ( Volume: 36, [Issue: 11](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=8087860), Nov. 2017 )
+
+Page(s): 2355 - 2365
+
+Date of Publication: 12 September 2017
+
+DOI: [10.1109/TMI.2017.2751523](https://doi.org/10.1109/TMI.2017.2751523)
+
+***
 
 ## Introduction
 
