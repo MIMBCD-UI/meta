@@ -24,31 +24,31 @@ We kindly ask **scientific works and studies** that make use of Master Thesis to
 
 ## Introduction
 
-The project is being developed by the Associate Laboratory - [Institute for Systems and Robotics (ISR-Lisboa)](http://welcome.isr.tecnico.ulisboa.pt/). This project proposes the development of a methodology for breast detection and cancer targeting using multi-modality of medical imaging and textual information.
+The project is being developed by the Associate Laboratory - [Institute for Systems and Robotics (ISR-Lisboa)](http://welcome.isr.tecnico.ulisboa.pt/). This [project proposes](https://www.researchgate.net/project/Medical-Imaging-Multimodality-Breast-Cancer-Diagnosis-User-Interface) the development of [visualizations and interaction techniques](https://dl.acm.org/citation.cfm?id=3134111) for the detection of cancer targeting among breast using [Multi-Modality](https://www.researchgate.net/publication/331686858_BreastScreening_A_Multimodality_Diagnostic_Assistant) medical imaging and textual information.
 
-More Specifically, this project deals with the use of a recently proposed technique in literature: [Deep Convolutional Neural Networks (CNNs)](https://en.wikipedia.org/wiki/Convolutional_neural_network). These deep networks will incorporate information from several different modes: magnetic resonance imaging volumes (MRI), ultrasound images, mammographic images (both views [CC](http://radiopaedia.org/articles/craniocaudal-view) and [MLO](http://radiopaedia.org/articles/mediolateral-oblique-view)) and text. The proposed algorithm, called for multimodality CNNs (MMCNNs) will have the ability to process multimodal information at an unified and sustained manner. This methodology needs to "learn" what are the masses and calcifications.
+More specifically, this project deals with the use of a recently proposed Machine Learning (ML) method in literature: [Deep Convolutional Neural Networks (CNNs)](https://en.wikipedia.org/wiki/Convolutional_neural_network). These Deep Networks will incorporate information from several different modes: Magnetic Resonance Imaging (MRI) volumes, UltraSound (US) images, MammoGraphic (MG) images (both views [CC](http://radiopaedia.org/articles/craniocaudal-view) and [MLO](http://radiopaedia.org/articles/mediolateral-oblique-view)) and text. The proposed algorithm, called for Multi-Modality CNN (MMCNNs) will have the ability to process multimodal information at a unified and sustained manner. This methodology needs to "learn" what are the masses and calcifications. Therefore, it is of chief importance to create and improve several visualization and interaction techniques to promote and generate data (i.e., our datasets) for the purpose.
 
-So that is necessary to collect the [ground truth](https://en.wikipedia.org/wiki/Ground_truth), or notes of the masses and calcifications provided by medical experts. For the collection of these notes, the design and development of an interface is necessary allows the user (in this case, the medical specialist) to display various types of image (i.e., ultrasound, MRI and mammography), and that also allows for user interaction, particularly in providing the notes of the masses and calcifications. For these reasons, it is crucial for the development of this project, cooperation with experts providing the above notes.
+So that is necessary to collect the [ground truth](https://en.wikipedia.org/wiki/Ground_truth), or notes of the masses and calcifications provided by medical experts. For the collection of these notes, the design and development of several User Interfaces (UI) is necessary, allowing the user (in this case, the medical specialist) to display various types of image (*i.e.*, MG, US and MRI), and that also allows for user interaction, particularly in providing the notes of the masses and calcifications. For these reasons, it is crucial for the development of this project, cooperation with experts providing the above notes.
 
 ## Goals
 
-Development of the User Interface for Diagnosis of Breast Cancer in Medical Imaging Multimodality. MIMBCD-UI is aiming for an intuitive User Interface, a user-friendly interface that allows users to rapidly diagnosis several image modalities.
+Development of the UI for diagnosis of breast cancer in Medical Imaging (MI) Multi-Modality. MIMBCD-UI is aiming for an intuitive UI, a user-friendly interface that allows users to rapidly diagnose several image modalities.
 
-It is intended to develop an User Interface for monitoring and diagnosis of breast lesions in various medical imaging modalities. Responses of these imaging modalities are containing plenty of useful information that are extracted and analyzed by the clinicians for the purpose of analysis, detection and the diagnosis of breast lesions.
+It is intended to develop an UI for monitoring and diagnosis of breast lesions in various medical imaging modalities. Responses of these imaging modalities are containing plenty of useful information that are extracted and analyzed by the clinicians for the purpose of analysis, detection and the diagnosis of breast lesions.
 
 The imaging modalities to include in the work are:
 
-* [Mammography](https://en.wikipedia.org/wiki/Mammography) (including the views caudal-skull and oblique);
-* [Ultrasound](https://en.wikipedia.org/wiki/Ultrasound);
+* [MG](https://en.wikipedia.org/wiki/Mammography) (including the views CC and MLO);
+* [US](https://en.wikipedia.org/wiki/Ultrasound);
 * [MRI](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging) volumes;
 
-With protocol already signed with the [Hospital Fernando Fonseca](http://www.hff.min-saude.pt/), it is intended that this interface has two features:
+Having a protocol already signed with the [Hospital Fernando Fonseca](http://www.hff.min-saude.pt/), it is intended that this interface has two features:
 
-**(i)** - Build a database with annotations in multimodality mammography image.
+**(i)** - Build a database with annotations in Multi-Modality of breast images.
 
-Provide the user (doctor) facility to draw / write down masses and calcifications, as well as the corresponding [BI-RADS](https://en.wikipedia.org/wiki/BI-RADS) for each imaging modality. This annotation process can be built during the examination, and thus it is possible to build a database of medical notes.
+Provide the user (doctor) facility to draw / write down masses and calcifications, as well as the corresponding [BIRADS](https://en.wikipedia.org/wiki/BI-RADS) for each imaging modality. This annotation process can be built during the examination, and thus it is possible to build a database of medical notes.
 
-**(ii)** - Follow-up of the patient. With this feature is to allow the doctor automate a multimodality inspection for the patient.
+**(ii)** - Follow-up of the patient. With this feature is to allow the doctor automate a Multi-Modality inspection for the patient.
 
 Based on the patient's identification (eg, via a query on the ID), and for a given type of mammography imaging, the system must return all images of this patient over a period of time (eg. Two or more years) entered by the doctor, and show these images (pre-recorded). This feature is critical for diagnosis because it allows, through information visualization, observing not only the calcifications density and the morphological evolution of the masses in that time period.
 
@@ -74,15 +74,21 @@ Based on the patient's identification (eg, via a query on the ID), and for a giv
 
 ## Advisorship
 
+Our projects provide comprehensive academic advising and research opportunities. Together the projects enable students, fellows and researchers to chart their own educational journey and make the best research experience.
+
 #### Advisor
 
 Professor [Jacinto Peixoto do Nascimento](http://users.isr.ist.utl.pt/~jan/) ([ISR](http://welcome.isr.tecnico.ulisboa.pt/author/jacintocarlosmarquespeixotodo/)/[IST](https://fenix.tecnico.ulisboa.pt/homepage/ist33543))
 
-#### Co-Advisor
+#### Co-Advisors
 
 Professor [Daniel Gonçalves](http://danielgoncalves.info/) ([INESC-ID](http://www.inesc-id.pt/member.php?pid=317)/[IST](https://fenix.tecnico.ulisboa.pt/homepage/ist13898))
 
+[Francisco Maria Calisto](https://web.tecnico.ulisboa.pt/francisco.calisto/) ([ITI](https://iti.larsys.pt/)/[IST](https://fenix.tecnico.ulisboa.pt/homepage/ist170916))
+
 ## Information
+
+The following information shows our resources and acknowledgements across the project development. It is in this section, where we link our [datasets](https://github.com/MIMBCD-UI/meta/wiki/Datasets) and important people, as well as projects to our research. The [MIMBCD-UI](https://mimbcd-ui.github.io/) will serve as base research of both [MIDA](https://mida-project.github.io/) and [BreastScreening](https://breastscreening.github.io/) projects.
 
 ### Dataset Resources
 
