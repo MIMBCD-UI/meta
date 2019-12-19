@@ -16,13 +16,15 @@ We kindly ask **scientific works and studies** that make use of Master Thesis to
 
 ```
 @mastersthesis{calisto2017mimbcdui,
-  author       = {Francisco Maria Calisto},
-  title        = {Medical Imaging Multimodality Breast Cancer Diagnosis User Interface},
-  school       = {Instituto Superior T\'{e}cnico},
-  year         = 2017,
-  address      = {Avenida Rovisco Pais 1, 1049-001 Lisboa - Portugal (EU)},
-  month        = 10,
-  note         = {A Medical Imaging for Multimodality of Breast Cancer Diagnosis by an User Interface.}
+  doi = {10.13140/RG.2.2.15187.02084},
+  url = {http://rgdoi.net/10.13140/RG.2.2.15187.02084},
+  author = {Francisco Maria Calisto},
+  title = {Medical Imaging Multimodality Breast Cancer Diagnosis User Interface},
+  school = {Instituto Superior T\'{e}cnico},
+  year = 2017,
+  address = {Avenida Rovisco Pais 1, 1049-001 Lisboa - Portugal (EU)},
+  month = 10,
+  note = {A Medical Imaging Tool for a Multimodality use of Breast Cancer Diagnosis on an User Interface.}
 }
 ```
 
