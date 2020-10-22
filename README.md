@@ -34,13 +34,25 @@ We have several publications made on research conferences and journals. In this 
 
 ***
 
+[BreastScreening: On the Use of Multi-Modality in Medical Imaging Diagnosis](https://dl.acm.org/doi/10.1145/3399715.3399744)
+
+[Francisco M. Calisto](https://dl.acm.org/profile/99659211441), [Nuno Nunes](https://dl.acm.org/profile/81100452353) and [Jacinto C. Nascimento](https://dl.acm.org/profile/81100522520)
+
+In [Proceedings](https://dl.acm.org/doi/proceedings/10.1145/3399715) of the [International Conference on Advanced Visual Interfaces (AVI '20)](https://sites.google.com/unisa.it/avi2020/)
+
+[Association for Computing Machinery (ACM)](https://www.acm.org/), New York, NY, USA, 390-395.
+
+DOI: [10.1145/3399715.3399744](https://doi.org/10.1145/3399715.3399744)
+
+***
+
 [Towards Touch-Based Medical Image Diagnosis Annotation](https://dl.acm.org/citation.cfm?id=3134111&CFID=841794082&CFTOKEN=36707834)
 
-[Francisco M. Calisto](https://dl.acm.org/author_page.cfm?id=99659211441&CFID=841794082&CFTOKEN=36707834), [Alfredo Ferreira](https://dl.acm.org/author_page.cfm?id=81448599037&CFID=841794082&CFTOKEN=36707834), [Jacinto C. Nascimento](https://dl.acm.org/author_page.cfm?id=99659210241&CFID=841794082&CFTOKEN=36707834) and [Daniel Gonçalves](https://dl.acm.org/author_page.cfm?id=81100240223&CFID=841794082&CFTOKEN=36707834)
+[Francisco M. Calisto](https://dl.acm.org/profile/99659211441), [Alfredo Ferreira](https://dl.acm.org/profile/81448599037), [Jacinto C. Nascimento](https://dl.acm.org/profile/81100522520) and [Daniel Gonçalves](https://dl.acm.org/profile/99659513474)
 
 In [Proceedings](http://st.sigchi.org/publications/toc/iss-2017.html) of the [2017 ACM International Conference on Interactive Surfaces and Spaces (ISS '17)](https://iss2017.acm.org/)
 
-ACM, New York, NY, USA, 390-395.
+[Association for Computing Machinery (ACM)](https://www.acm.org/), New York, NY, USA, 390-395.
 
 DOI: [10.1145/3132272.3134111](https://doi.org/10.1145/3132272.3134111)
 
